@@ -27,6 +27,11 @@ To run this project u need to do the followings
   python3 exploit.py
 ```
 
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/j34RFAq.png)
+
+
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/myselfAshraful)
 
